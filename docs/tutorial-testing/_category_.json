@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Testing",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Testing infrastructure of CRA Template: dApp"
+  }
+}
