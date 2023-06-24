@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[1713],{3457:p=>{p.exports=JSON.parse('[{"label":"web3","permalink":"/blog/tags/web-3","count":2},{"label":"dapp","permalink":"/blog/tags/dapp","count":1},{"label":"dApp","permalink":"/blog/tags/d-app","count":1}]')}}]);

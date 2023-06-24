@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>CRA Template: dApp Blog</title>
+    <updated>2023-06-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>CRA Template: dApp Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/first-blog-post</id>
+        <link href="https://your-docusaurus-test-site.com/blog/first-blog-post"/>
+        <updated>2023-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[this page is under construction...]]></summary>
+        <content type="html"><![CDATA[<p>this page is under construction...</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Hüseyin Deniz KIVRAK</name>
+            <uri>https://huseyindeniz.net</uri>
+        </author>
+        <category label="web3" term="web3"/>
+        <category label="dapp" term="dapp"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/welcome</id>
+        <link href="https://your-docusaurus-test-site.com/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[this page is under construction...]]></summary>
+        <content type="html"><![CDATA[<p>this page is under construction...</p>]]></content>
+        <author>
+            <name>Hüseyin Deniz KIVRAK</name>
+            <uri>https://huseyindeniz.net</uri>
+        </author>
+        <category label="web3" term="web3"/>
+        <category label="dApp" term="dApp"/>
+    </entry>
+</feed>
