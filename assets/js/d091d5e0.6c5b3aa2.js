@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[267],{8818:a=>{a.exports=JSON.parse('{"label":"dApp","permalink":"/cra-template-dapp-documentation/blog/tags/d-app","allTagsPath":"/cra-template-dapp-documentation/blog/tags","count":1}')}}]);

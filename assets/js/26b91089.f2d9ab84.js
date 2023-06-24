@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[995],{6041:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/d-app","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
