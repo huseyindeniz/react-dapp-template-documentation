@@ -4,18 +4,18 @@ import Link from '@docusaurus/Link';
 
 import styles from './styles.module.css';
 
-import whitelistRaffleImage from '@site/static/img/whitelist-raffle.png';
+import randoraImage from '@site/static/img/randora-home.png';
 
 const ShowcaseItems = [
   {
-    title: 'Whitelist Raffle',
-    imageUrl: whitelistRaffleImage,
+    title: 'Randora',
+    imageUrl: randoraImage,
     description: (
       <>
-        Trustless, On-Chain Whitelist Raffle
+        Trustless, On-Chain, Allowlist Raffle
       </>
     ),
-    link: 'https://whitelistraffle.avax.sh'
+    link: 'https://randora.avax.sh'
   }
 ];
 
