@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[2535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/cra-template-dapp-documentation/blog/first-blog-post"},{"title":"Welcome","permalink":"/cra-template-dapp-documentation/blog/welcome"}]}')}}]);

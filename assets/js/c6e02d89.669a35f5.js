@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[9049],{6748:e=>{e.exports=JSON.parse('{"permalink":"/cra-template-dapp-documentation/blog/tags/web-3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

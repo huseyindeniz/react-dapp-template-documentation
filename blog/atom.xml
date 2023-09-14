@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://huseyindeniz.github.io/cra-template-dapp-documentation/blog</id>
-    <title>CRA Template: dApp Blog</title>
+    <id>https://huseyindeniz.github.io/react-dapp-template-documentation/blog</id>
+    <title>React dApp Template Blog</title>
     <updated>2023-06-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://huseyindeniz.github.io/cra-template-dapp-documentation/blog"/>
-    <subtitle>CRA Template: dApp Blog</subtitle>
-    <icon>https://huseyindeniz.github.io/cra-template-dapp-documentation/img/favicon.ico</icon>
+    <link rel="alternate" href="https://huseyindeniz.github.io/react-dapp-template-documentation/blog"/>
+    <subtitle>React dApp Template Blog</subtitle>
+    <icon>https://huseyindeniz.github.io/react-dapp-template-documentation/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://huseyindeniz.github.io/cra-template-dapp-documentation/blog/first-blog-post</id>
-        <link href="https://huseyindeniz.github.io/cra-template-dapp-documentation/blog/first-blog-post"/>
+        <id>https://huseyindeniz.github.io/react-dapp-template-documentation/blog/first-blog-post</id>
+        <link href="https://huseyindeniz.github.io/react-dapp-template-documentation/blog/first-blog-post"/>
         <updated>2023-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[this page is under construction...]]></summary>
         <content type="html"><![CDATA[<p>this page is under construction...</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://huseyindeniz.github.io/cra-template-dapp-documentation/blog/welcome</id>
-        <link href="https://huseyindeniz.github.io/cra-template-dapp-documentation/blog/welcome"/>
+        <id>https://huseyindeniz.github.io/react-dapp-template-documentation/blog/welcome</id>
+        <link href="https://huseyindeniz.github.io/react-dapp-template-documentation/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[this page is under construction...]]></summary>
         <content type="html"><![CDATA[<p>this page is under construction...</p>]]></content>

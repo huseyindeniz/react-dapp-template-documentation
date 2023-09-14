@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdapp_documentation=self.webpackChunkdapp_documentation||[]).push([[9996],{7928:a=>{a.exports=JSON.parse('{"label":"dapp","permalink":"/react-dapp-template-documentation/blog/tags/dapp","allTagsPath":"/react-dapp-template-documentation/blog/tags","count":1}')}}]);
