@@ -12,11 +12,21 @@ cd mydapp
 npm start
 ```
 
+or
+
+```bash
+npx degit huseyindeniz/vite-react-dapp-template mydapp
+cd mydapp
+
+npm install
+npm run dev
+```
+
 Are you tired of searching for and configuring numerous React packages? Do you get tired of writing the same boilerplate for each new dApp?
 
 One of the challenges of building applications with pure React is the need to identify and configure a large number of packages to get the desired functionality. This can be time-consuming and error-prone, especially for developers who are new to React or who are building their first dApp application.
 
-The dApp CRA Template helps developers avoid this challenge by including a wide range of preconfigured packages that are ready to use out of the box. This includes packages for core functionality such as routing and state management, as well as packages for specialized features like internationalization. All of these packages are carefully selected and integrated to work seamlessly together, making it easy for developers to build powerful and feature-rich applications without the need to spend time researching and configuring individual packages.
+The React dApp Template helps developers avoid this challenge by including a wide range of preconfigured packages that are ready to use out of the box. This includes packages for core functionality such as routing and state management, as well as packages for specialized features like internationalization. All of these packages are carefully selected and integrated to work seamlessly together, making it easy for developers to build powerful and feature-rich applications without the need to spend time researching and configuring individual packages.
 
 ## Benefits
 
@@ -59,13 +69,25 @@ The dApp CRA Template helps developers avoid this challenge by including a wide 
 
 ## Installation
 
+### CRA Version
+
 ```bash
 npx create-react-app mydapp --template @huseyindeniz/dapp
 ```
 
+### Vite Version
+
+```bash
+npx degit huseyindeniz/vite-react-dapp-template mydapp
+cd mydapp
+
+npm install
+npm run dev
+```
+
 ## App Features
 
-CRA Template: dApp is using feature based directory structure
+React dApp Template is using feature based directory structure
 
 - src
   - features
@@ -78,4 +100,4 @@ i18n, ui and wallet features are ready to use.
 
 ## Next Steps
 
-Please visit the [Tutorial](./docs/intro) page to start your dApp frontend development journey with CRA Template dApp.
+Please visit the [Tutorial](./docs/intro) page to start your dApp frontend development journey with React dApp Template.

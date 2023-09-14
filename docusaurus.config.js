@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CRA Template: dApp',
+  title: 'React dApp Template',
   tagline: 'experience the full power of React for dApp development',
   favicon: 'img/favicon.ico',
 
@@ -14,12 +14,12 @@ const config = {
   url: 'https://huseyindeniz.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/cra-template-dapp-documentation/',
+  baseUrl: '/react-dapp-template-documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'huseyindeniz', // Usually your GitHub org/user name.
-  projectName: 'cra-template-dapp', // Usually your repo name.
+  projectName: 'react-dapp-template', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,9 +74,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'CRA Template: dApp',
+        title: 'React dApp Template',
         logo: {
-          alt: 'CRA Template: dApp Logo',
+          alt: 'React dApp Template Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -90,7 +90,7 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'right' },
           { to: '/showcase', label: 'Showcase', position: 'right' },
           {
-            href: 'https://github.com/huseyindeniz/cra-template-dapp',
+            href: 'https://github.com/huseyindeniz/react-dapp-template',
             label: 'GitHub',
             position: 'right',
           },
@@ -116,7 +116,7 @@ const config = {
             href: 'showcase'
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CRA Template: dApp, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} React dApp Template Documentation, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

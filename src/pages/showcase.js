@@ -10,7 +10,7 @@ export default function Showcase() {
             <header className='hero text--center'>
                 <div className="container">
                     <h1 className="hero__title">Showcase</h1>
-                    <p className="hero__subtitle">dApps using CRA Template: dApp</p>
+                    <p className="hero__subtitle">dApps using React dApp Template</p>
                 </div>
             </header>
             <main>

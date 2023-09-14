@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'Easy to Use',
     description: (
       <>
-        CRA Template: dApp was designed from the ground up to be easily installed and
+        React dApp Template was designed from the ground up to be easily installed and
         used to get your dApp up and running quickly.
       </>
     ),
@@ -16,7 +16,7 @@ const FeatureList = [
     title: 'Focus on What Matters',
     description: (
       <>
-        CRA Template: dApp lets you focus on your dApp domain logic.
+        React dApp Template lets you focus on your dApp domain logic.
       </>
     ),
   },
@@ -24,7 +24,7 @@ const FeatureList = [
     title: 'Powered by React',
     description: (
       <>
-        Extend or customize your dApp by reusing React. CRA Template: dApp can
+        Extend or customize your dApp by reusing React. React dApp Template can
         be extended while reusing the same features.
       </>
     ),
