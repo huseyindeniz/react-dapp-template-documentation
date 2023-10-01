@@ -6,6 +6,8 @@ title: Get Started
 
 Boilerplate your dApp frontend in a few simple steps.
 
+**CRA Template**
+
 ```bash
 npx create-react-app mydapp --template @huseyindeniz/dapp
 cd mydapp
@@ -13,6 +15,8 @@ npm start
 ```
 
 or
+
+**Vite Template**
 
 ```bash
 npx degit huseyindeniz/vite-react-dapp-template mydapp

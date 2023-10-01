@@ -12,7 +12,7 @@ const ShowcaseItems = [
     imageUrl: randoraImage,
     description: (
       <>
-        Trustless, On-Chain, Allowlist Raffle
+        Trustless, On-Chain, Allowlisting Platform
       </>
     ),
     link: 'https://randora.avax.sh'

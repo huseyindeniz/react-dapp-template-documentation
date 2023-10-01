@@ -90,8 +90,13 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'right' },
           { to: '/showcase', label: 'Showcase', position: 'right' },
           {
-            href: 'https://github.com/huseyindeniz/react-dapp-template',
-            label: 'GitHub',
+            href: 'https://github.com/huseyindeniz/vite-react-dapp-template',
+            label: 'GitHub (Vite)',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/huseyindeniz/cra-template-dapp',
+            label: 'GitHub (CRA)',
             position: 'right',
           },
         ],
