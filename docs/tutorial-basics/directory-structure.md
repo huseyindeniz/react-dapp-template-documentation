@@ -76,6 +76,23 @@ In React dApp Template, you'll find a well-structured and pre-configured directo
 
 ### Directory Structure Overview
 
+```
+├── public
+└── src
+    ├── services
+    ├── hooks
+    ├── pages
+    ├── store
+    └── features
+        ├── i18n
+        ├── ui
+            ├── components
+                ├── Layout
+                ├── ...
+        └── wallet
+        └── ...
+```
+
 - **src/services:** This directory houses external service clients, providing a dedicated location to interact with external APIs or services. It streamlines the integration of external data sources into your dapp.
 
 - **src/store:** The **redux store** resides here, offering a centralized state management solution. Redux is a robust state management library, and this pre-configured directory simplifies the setup and organization of your application's global state.

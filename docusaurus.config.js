@@ -106,19 +106,19 @@ const config = {
         links: [
           {
             label: 'Get Started',
-            href: 'get-started'
+            href: '/get-started'
           },
           {
             label: 'Tutorial',
-            href: 'docs/intro'
+            href: '/docs/intro'
           },
           {
             label: 'Blog',
-            href: 'blog'
+            href: '/blog'
           },
           {
             label: 'Showcase',
-            href: 'showcase'
+            href: '/showcase'
           }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} React dApp Template Documentation, Built with Docusaurus.`,
