@@ -31,8 +31,9 @@ Add a Route for the New Page: Below the existing routes, add a route for your ne
 ```ts
 // Home Route
 const MyNewPageRoute: PageType = {
-  index: true,
+  index: false,
   element: <MyNewPage />,
+  path: "mynewpage",
   menuLabel: t("My New Page", { ns: "Menu" }),
   isShownInMainMenu: false,
   isShownInSecondaryMenu: false,
@@ -46,6 +47,16 @@ Add the Route to the Pages Array: After defining the new page route, add it to t
 // Add the new page route to the Pages array
 const Pages: PageType[] = [MyNewPageRoute];
 ```
+
+## PageType
+
+* The `index` value is exclusively meant to be "true" for the "Home" component, which has already been managed by the "vite-react-dapp-template."
+* `element` refers to the imported Page.
+* `path` denotes the exposed link leading to the page.
+* `menuLabel` is displayed in the Menu's section.
+* `isShownInMainMenu` signifies whether the page should be included in the main menu at the top of the page.
+* `isShownInSecondaryMenu` signifies whether the page should be included in the secondary menu located at the bottom of the page.
+* `isProtected` denotes if it should be guarded (and displayed) exclusively when a wallet is connected.
 
 That's it! You've successfully created a new page in your React dApp. Your new page is now accessible and can be navigated to using the specified route.
 
